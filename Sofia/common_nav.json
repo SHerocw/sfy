@@ -1,0 +1,129 @@
+[{
+	"title" : "首页",
+	"path" : "index.html"
+},{
+	"title" : "关于我们",
+	"path" : "about_company.html",
+	"main" : [{
+		"subtitle" : "公司简介",
+		"href" : "about_company.html"
+	},{
+		"subtitle" : "企业文化",
+		"href" : "about_culture.html"
+	},{
+		"subtitle" : "大事记",
+		"href" : "about_event.html"
+	},{
+		"subtitle" : "企业荣誉",
+		"href" : "about_honor.html"
+	}]
+},{
+	"title" : "品牌优势",
+	"path" : "brand_create.html",
+	"main" : [{
+		"subtitle" : "生产制造",
+		"href" : "brand_create.html"
+	},{
+		"subtitle" : "智能信息化",
+		"href" : "brand_intel.html"
+	},{
+		"subtitle" : "销售网络",
+		"href" : "brand_sale.html"
+	},{
+		"subtitle" : "定制服务",
+		"href" : "brand_serve.html"
+	}]
+},{
+	"title" : "大家居服务",
+	"path" : "house_big.html",
+	"main" : [{
+		"subtitle" : "大家居",
+		"href" : "house_big.html"
+	},{
+		"subtitle" : "索菲亚全屋定制",
+		"href" : "house_all.html",
+		"src" : "img/qwdz.jpg",
+		"brief" : "将空间规划的智慧和巧思融入产品设计，为消费者提供专业化、个性化的空间定制方案。"
+	},{
+		"subtitle" : "司米橱柜",
+		"href" : "house_cook.html",
+		"src" : "img/cg.jpg",
+		"brief" : "法国橱柜品牌，2014年由索菲亚引进，为中国家庭带来更便捷、快乐的高品质家居生活。"
+	},{
+		"subtitle" : "米兰纳木门",
+		"href" : "house_door.html",
+		"src" : "img/mm.jpg",
+		"brief" : "致力为时下年轻消费群体打造时尚、活力、简约的品质木门。"
+	},{
+		"subtitle" : "家具家品",
+		"href" : "house_furniture.html",
+		"src" : "img/jj.jpg",
+		"brief" : "提供与家居风格配套的窗帘、沙发、茶几、床品、床垫等产品，为更多的家庭定制专业的全屋家具家品解决方案。"
+	},{
+		"subtitle" : "工程业务",
+		"href" : "house_project.html",
+		"src" : "img/gc.jpg",
+		"brief" : "为地产、酒店、企事业、长租公寓、学校、医院等工程客户提供全屋整装解决方案。"
+	}]
+},{
+	"title" : "投资者关系",
+	"path" : "investor_info.html",
+	"main" : [{
+		"subtitle" : "信息披露",
+		"href" : "investor_info.html"
+	},{
+		"subtitle" : "公司治理",
+		"href" : "investor_company.html"
+	},{
+		"subtitle" : "基本数据",
+		"href" : "investor_data.html"
+	},{
+		"subtitle" : "投资者问答",
+		"href" : "investor_ask.html"
+	},{
+		"subtitle" : "投资者接待",
+		"href" : "investor_receive.html"
+	},{
+		"subtitle" : "投资者保护",
+		"href" : "investor_protect.html"
+	}]
+},{
+	"title" : "可持续发展",
+	"path" : "sustain_green.html",
+	"main" : [{
+		"subtitle" : "绿色环保",
+		"href" : "sustain_green.html"
+	},{
+		"subtitle" : "儿童关怀",
+		"href" : "sustain_children.html"
+	}]
+},{
+	"title" : "新闻中心",
+	"path" : "news_notice.html",
+	"main" : [{
+		"subtitle" : "新闻公告",
+		"href" : "news_notice.html"
+	},{
+		"subtitle" : "媒体报道",
+		"href" : "news_report.html"
+	},{
+		"subtitle" : "通讯刊物",
+		"href" : "news_book.html"
+	},{
+		"subtitle" : "媒体素材库",
+		"href" : "news_pic.html"
+	}]
+},{
+	"title" : "加入我们",
+	"path" : "join_postlist.html",
+	"main" : [{
+		"subtitle" : "招聘职位",
+		"href" : "join_postlist.html"
+	},{
+		"subtitle" : "招商加盟",
+		"href" : "join_business.html"
+	},{
+		"subtitle" : "培训发展",
+		"href" : "join_train.html"
+	}]
+}]

@@ -1,0 +1,574 @@
+[{
+	"title" : "品牌产品",
+	"pros" : [{
+		"name" : "入户空间",
+		"pics" : [{
+			"src" : "img/qr1.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr2.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr3.jpg",
+			"text" : "光影鎏金系列-入户柜"
+		},{
+			"src" : "img/qr4.jpg",
+			"text" : "空灵雾系列-入户柜"
+		},{
+			"src" : "img/qr5.jpg",
+			"text" : "诺曼系列-入户柜"
+		},{
+			"src" : "img/qr6.jpg",
+			"text" : "卡尔卡松系列-入户柜"
+		},{
+			"src" : "img/qr7.jpg",
+			"text" : "塞纳风晴系列-入户柜"
+		},{
+			"src" : "img/qr8.jpg",
+			"text" : "星空间系列-入户柜"
+		},{
+			"src" : "img/qr9.jpg",
+			"text" : "羽之爵系列-入户柜"
+		}]
+	},{
+		"name" : "客厅空间",
+		"pics" : [{
+			"src" : "img/qk1.jpg",
+			"text" : "安纳西系列-电视柜"
+		},{
+			"src" : "img/qk2.jpg",
+			"text" : "歌檀颂系列-电视柜"
+		},{
+			"src" : "img/qk3.jpg",
+			"text" : "歌檀雅系列-电视柜"
+		},{
+			"src" : "img/qk4.jpg",
+			"text" : "光影鎏金系列-客厅"
+		},{
+			"src" : "img/qk5.jpg",
+			"text" : "卡尔卡松系列-电视柜"
+		},{
+			"src" : "img/qk6.jpg",
+			"text" : "卡莉特斯系列-电视柜"
+		},{
+			"src" : "img/qk7.jpg",
+			"text" : "芒通系列-客厅"
+		},{
+			"src" : "img/qk8.jpg",
+			"text" : "维纳圣影系列-电视柜"
+		},{
+			"src" : "img/qk9.jpg",
+			"text" : "羽之爵系列-电视柜"
+		}]
+	},{
+		"name" : "餐厅空间",
+		"pics" : [{
+			"src" : "img/qc1.jpg",
+			"text" : "阿尔萨斯系列-酒柜"
+		},{
+			"src" : "img/qc2.jpg",
+			"text" : "安纳西系列-酒柜"
+		},{
+			"src" : "img/qc3.jpg",
+			"text" : "歌檀颂系列-酒柜"
+		},{
+			"src" : "img/qc4.jpg",
+			"text" : "歌檀雅系列-酒柜"
+		},{
+			"src" : "img/qc5.jpg",
+			"text" : "光影鎏金系列-酒柜"
+		},{
+			"src" : "img/qc6.jpg",
+			"text" : "卡尔卡松系列-酒柜"
+		},{
+			"src" : "img/qc7.jpg",
+			"text" : "卡莉特斯系列-餐酒柜"
+		},{
+			"src" : "img/qc8.jpg",
+			"text" : "星空间系列-酒柜"
+		},{
+			"src" : "img/qc9.jpg",
+			"text" : "羽之爵系列-酒柜"
+		}]
+	},{
+		"name" : "卧室空间",
+		"pics" : [{
+			"src" : "img/qw1.jpg",
+			"text" : "安纳西系列-次卧"
+		},{
+			"src" : "img/qw2.jpg",
+			"text" : "歌檀雅系列-衣帽间"
+		},{
+			"src" : "img/qw3.jpg",
+			"text" : "光影鎏金系列-主卧"
+		},{
+			"src" : "img/qw4.jpg",
+			"text" : "卡莉特斯系列-主卧"
+		},{
+			"src" : "img/qw5.jpg",
+			"text" : "芒通系列-卧室"
+		},{
+			"src" : "img/qw6.jpg",
+			"text" : "塞纳风晴系列-衣帽间"
+		},{
+			"src" : "img/qw7.jpg",
+			"text" : "维纳圣影系列-次卧"
+		},{
+			"src" : "img/qw8.jpg",
+			"text" : "星空间系列-主卧"
+		},{
+			"src" : "img/qw9.jpg",
+			"text" : "羽之爵系列-主卧"
+		}]
+	},{
+		"name" : "书房空间",
+		"pics" : [{
+			"src" : "img/qs1.jpg",
+			"text" : "阿尔萨斯系列-书房"
+		},{
+			"src" : "img/qs2.jpg",
+			"text" : "歌檀颂系列-书柜"
+		},{
+			"src" : "img/qs3.jpg",
+			"text" : "歌檀颂系列-休闲室"
+		},{
+			"src" : "img/qs4.jpg",
+			"text" : "卡莉特斯系列-书柜"
+		},{
+			"src" : "img/qs5.jpg",
+			"text" : "芒通系列-书房"
+		},{
+			"src" : "img/qs6.jpg",
+			"text" : "芒通系列-书房"
+		},{
+			"src" : "img/qs7.jpg",
+			"text" : "塞纳风晴系列-书房"
+		},{
+			"src" : "img/qs8.jpg",
+			"text" : "索菲亚全屋定制-榻榻米-书房"
+		},{
+			"src" : "img/qs9.jpg",
+			"text" : "维纳圣影系列-书柜"
+		}]
+	},{
+		"name" : "青少年房空间",
+		"pics" : [{
+			"src" : "img/qq1.jpg",
+			"text" : "阿尔萨斯系列-儿童房"
+		},{
+			"src" : "img/qq2.jpg",
+			"text" : "阿维尼翁系列-儿童房"
+		},{
+			"src" : "img/qq3.jpg",
+			"text" : "儿童房"
+		},{
+			"src" : "img/qq4.jpg",
+			"text" : "儿童房"
+		},{
+			"src" : "img/qq5.jpg",
+			"text" : "儿童房"
+		},{
+			"src" : "img/qq6.jpg",
+			"text" : "儿童房"
+		},{
+			"src" : "img/qq7.jpg",
+			"text" : "法式风格系列-儿童房"
+		},{
+			"src" : "img/qq8.jpg",
+			"text" : "男孩房"
+		},{
+			"src" : "img/qq9.jpg",
+			"text" : "男孩房"
+		},{
+			"src" : "img/qq10.jpg",
+			"text" : "女孩房"
+		},{
+			"src" : "img/qq11.jpg",
+			"text" : "女孩房"
+		}]
+	},{
+		"name" : "阳台空间",
+		"pics" : [{
+			"src" : "img/qy1.jpg",
+			"text" : "阳台柜"
+		},{
+			"src" : "img/qy2.jpg",
+			"text" : "阳台柜"
+		},{
+			"src" : "img/qy3.jpg",
+			"text" : "阳台柜"
+		}]
+	}]
+},{
+	"title" : "品牌产品",
+	"pros" : [{
+		"name" : "i系列",
+		"pics" : [{
+			"src" : "img/ci1.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/ci2.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/ci3.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/ci4.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/ci5.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		}]
+	},{
+		"name" : "皇家系列",
+		"pics" : [{
+			"src" : "img/ch1.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/ch2.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/ch3.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/ch4.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/ch5.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/ch6.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/ch7.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		}]
+	},{
+		"name" : "新贵系列",
+		"pics" : [{
+			"src" : "img/cx1.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/cx2.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		}]
+	},{
+		"name" : "浪漫系列",
+		"pics" : [{
+			"src" : "img/cm1.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/cm2.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		}]
+	},{
+		"name" : "司米电器",
+		"pics" : [{
+			"src" : "img/cd1.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/cd2.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		}]
+	}]
+},{
+	"title" : "品牌产品",
+	"pros" : [{
+		"name" : "雅致新古典风格",
+		"pics" : [{
+			"src" : "img/my1.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/my2.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/my3.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr4.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr5.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr6.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr7.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr8.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr9.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		}]
+	},{
+		"name" : "现代时尚风格",
+		"pics" : [{
+			"src" : "img/mx1.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/mx2.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		}]
+	},{
+		"name" : "现代自然风格",
+		"pics" : [{
+			"src" : "img/mz1.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/mz2.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		}]
+	},{
+		"name" : "英式田园风格",
+		"pics" : [{
+			"src" : "img/mt1.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/mt2.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		}]
+	},{
+		"name" : "欧式古典风格",
+		"pics" : [{
+			"src" : "img/mo1.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/mo2.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		}]
+	}]
+},{
+	"title" : "品牌产品",
+	"pros" : [{
+		"name" : "客厅",
+		"pics" : [{
+			"src" : "img/jk1.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/jk2.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/jk3.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		}]
+	},{
+		"name" : "餐厅",
+		"pics" : [{
+			"src" : "img/jc1.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/jc2.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/jc3.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		}]
+	},{
+		"name" : "卧室",
+		"pics" : [{
+			"src" : "img/qr4.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr5.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr6.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr7.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr8.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr9.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		}]
+	},{
+		"name" : "灯饰",
+		"pics" : [{
+			"src" : "img/qr1.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr2.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr7.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr8.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr9.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		}]
+	},{
+		"name" : "窗帘",
+		"pics" : [{
+			"src" : "img/qr3.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr4.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr5.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr6.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr7.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr8.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr9.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		}]
+	},{
+		"name" : "家纺床品",
+		"pics" : [{
+			"src" : "img/qr1.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr2.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr3.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr4.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr5.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		}]
+	}]
+},{
+	"title" : "工程案例展示",
+	"pros" : [{
+		"name" : "地产住宅",
+		"pics" : [{
+			"src" : "img/wd1.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/wd2.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/wd3.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr4.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr5.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr6.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr7.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr8.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr9.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		}]
+	},{
+		"name" : "公寓",
+		"pics" : [{
+			"src" : "img/qr1.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr5.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr6.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr7.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr8.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr9.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		}]
+	},{
+		"name" : "酒店",
+		"pics" : [{
+			"src" : "img/qr1.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr2.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr3.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr4.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr5.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr6.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		}]
+	},{
+		"name" : "企事业单位",
+		"pics" : [{
+			"src" : "img/qr1.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr2.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr3.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr4.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr8.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr9.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		}]
+	},{
+		"name" : "学校",
+		"pics" : [{
+			"src" : "img/qr1.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr2.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr7.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr8.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/qr9.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		}]
+	},{
+		"name" : "医院",
+		"pics" : [{
+			"src" : "img/wy1.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		},{
+			"src" : "img/wy2.jpg",
+			"text" : "歌檀颂系列-入户柜"
+		}]
+	}]
+}]
